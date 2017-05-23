@@ -21,7 +21,7 @@ and open the template in the editor.
             <?php } ?>
         </div>
         <a href="revision.php">Revisi&oacute;n sesi&oacute;n</a>
-        
+        <a href="Formulario.php">Formulario Producto</a>
         <?php if (!isset($_SESSION['USR'])){?>
         <form action="revision.php" method="post">
             <div><label>Usuario<input type="text" name="nombre"></div>
