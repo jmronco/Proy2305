@@ -4,7 +4,7 @@
             <div>Nombre: <input type="text" name="nombre"></div>
             <div>Código: <input type="text" name="código"></div>
             <div>Precio: <input type="text" name="precio"></div>
-            <input type="submit" value="enviar">
+            <input type="submit" value="guardar">
                 
         </form>
     </body>
