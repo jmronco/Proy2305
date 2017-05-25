@@ -1,4 +1,4 @@
  <?php
-  include (PATH."/dato/Producto.php");
-  include (PATH."/dato/LogTransaccion.php");
+  include (PATH."/lib/Producto.php");
+  include (PATH."/lib/LogTransacciondes.php");
 
