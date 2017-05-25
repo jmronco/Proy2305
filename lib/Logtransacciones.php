@@ -12,4 +12,5 @@ class Logtransacciones{
         $this->accion = $acccion;
         $this->descripcion = $descripcion;
     }
+           
 }
