@@ -20,7 +20,7 @@ and open the template in the editor.
             <a href="cerrar.php">Cerrar Sesión</a>
             <?php } ?>
         </div>
-        <a href="revision.php">Revisi&oacute;n sesi&oacute;n</a>
+        <a href="revision.php">Inicio de sesi&oacute;n</a>
         <a href="Formulario.php">Formulario Producto</a>
         <?php if (!isset($_SESSION['USR'])){?>
         <form action="revision.php" method="post">
